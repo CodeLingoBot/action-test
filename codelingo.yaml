@@ -3,3 +3,4 @@ tenets:
 - import: codelingo/code-review-comments/declare-empty-slice
 - import: codelingo/go/empty-slice
 - import: codelingo/kubernetes/jsonapi-kind-compulsory-metadata
+- import: codelingo/kubernetes/flags-have-underscores
