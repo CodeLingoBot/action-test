@@ -4,3 +4,4 @@ tenets:
 - import: codelingo/go/empty-slice
 - import: codelingo/kubernetes/jsonapi-kind-compulsory-metadata
 - import: codelingo/kubernetes/flags-have-underscores
+- import: codelingo/go/global-var
